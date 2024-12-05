@@ -4,7 +4,7 @@ console.log(`Hello ${Username}, nice to meet you`);
 
 console.log("Goodbye World!");
 
-let isCold = true;
-let isSunny = false;
+const Firstname = document.querySelector(".name");
 
-console.log(typeof Username);
+console.log(Firstname);
+Firstname.textContent = `Welcome ${Username}`;
