@@ -1,0 +1,139 @@
+header {
+  background: Azure;
+  height: px;
+}
+main {
+  background: white;
+  height: 1000px;
+}
+footer {
+  background-color: black;
+  height: 15rem;
+}
+li {
+  display: inline;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+p {
+  position: relative;
+  top: 500px;
+}
+
+.Empty {
+  margin: 200px;
+}
+
+.Menu {
+  color: darkgray;
+  padding: 10px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  margin: 10px;
+}
+
+.Menu:hover {
+  color: MediumSeaGreen;
+  background-color: darkslategray;
+}
+
+.menu2 {
+  text-align: center;
+  position: sticky;
+  top: 10px;
+  right: 475px;
+  background: white;
+  border: solid black;
+}
+
+.Menu3 {
+  display: flex;
+  justify-content: center;
+}
+
+.WrittenBy {
+  color: darkgray;
+  background-color: darkslategray;
+  background-size: 5px;
+  text-align: center;
+}
+
+.OtherArticles {
+  border: solid 0px red;
+}
+
+.OtherArticles:hover {
+  border: solid 0.5rem darkslategray;
+}
+
+.OtherArticles2 {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.Art1 {
+  display: flex;
+  justify-content: center;
+  height: 255px;
+  width: 430px;
+  align-items: center;
+}
+
+.Art2 {
+  display: flex;
+  justify-content: center;
+  height: 255px;
+  width: 430px;
+  align-items: center;
+}
+
+.Art3 {
+  display: flex;
+  justify-content: center;
+  height: 255px;
+  width: 430px;
+  align-items: center;
+}
+
+.Art4 {
+  display: flex;
+  justify-content: center;
+  height: 255px;
+  width: 430px;
+  align-items: center;
+}
+
+.boxes {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.box1 {
+  height: 30px;
+  margin: 10px;
+  width: 80px;
+  background-color: blue;
+}
+
+.box2 {
+  height: 30px;
+  margin: 10px;
+  width: 80px;
+  background-color: red;
+}
+
+.box3 {
+  height: 30px;
+  margin: 10px;
+  width: 80px;
+  background-color: green;
+}
